@@ -1,0 +1,4 @@
+Controlar Automovil|http://www.mygnet.com/codigos/c/15/1668/ver/
+Controlar Ventilador|http://www.tuobra.unam.mx/publicadas/031124084422-CONTROL.html
+El Puerto Paralelo|http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm
+BULMA: Programación del Puerto Paralelo, LEDs.|http://bulma.net/body.phtml?nIdNoticia=1150

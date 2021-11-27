@@ -1,0 +1,2 @@
+The Gimp|http://www.falasco.org/Documentos/introducciongimp/introduccion_gimp.html
+Creando Texto con The Gimp|http://www.linuxfocus.org/Castellano/May1998/article36.html

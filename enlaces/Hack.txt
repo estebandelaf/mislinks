@@ -1,0 +1,6 @@
+Snifers|http://www.vilecha.com/Autodidactas/sniffers.html
+Escalada de Privilegios en WinXP|http://foros.marianistas.org/tema-932.html
+Textos|http://www.elhacker.net/Textos1.htm
+¿Cómo Hacer Preguntas Inteligentes?|http://www.sindominio.net/ayuda/preguntas-inteligentes.html
+htaccess|http://www.hungryhacker.com/articles/security/htaccess.html
+Borrar datos con seguridad|http://www.tech-faq.com/lang/es/securely-erase-data.shtml&usg=ALkJrhjIOSd0c9sMRegQQmpXGMDrkLj6zw

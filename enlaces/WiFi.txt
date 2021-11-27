@@ -1,0 +1,9 @@
+DD-WRT Firmware|http://dd-wrt.gruftie.com/dd-wrtv2/index.php
+Open WRT Firmware|http://openwrt.org/
+Instalar Open WRT a WR850G|http://wiki.openwrt.org/OpenWrtDocs/Hardware/Motorola/WR850G
+Lo básico para levantar un Nodo|http://www.chilewireless.cl/index.php?option=com_content&task=view&id=36&Itemid=26
+m0n0wall|http://m0n0.ch/wall/
+NoCat|http://nocat.net/
+Router WR850G|http://broadband.motorola.com/consumers/products/wr850g/
+Cosas Varias|http://www.sincables.net/modules.php?name=Forums&file=viewtopic&t=2673
+Libro|http://www.antartica.cl/antartica/servlet/LibroServlet?action=fichaLibro&id_libro=46111

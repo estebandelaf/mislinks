@@ -1,0 +1,8 @@
+Colores en Hexadecimal|http://www.webtaller.com/utilidades/csscoder/colores.php
+Caráteres Especiales|http://www.desarrolloweb.com/articulos/11.php?manual=13
+Apuntes de PHP|http://www.ignside.net/man/php/index.php
+Menu Rollover Effect with CSS|http://www.ssi-developer.net/css/menu-rollover-effect.shtml
+Menú de Imágenes con CSS|http://www.programacion.com/html/articulo/tw_css_rollover/
+Manual HTML|http://www.whoishostingthis.com/es/recursos/guida-html
+Pure CSS menus|http://www.howtocreate.co.uk/tutorials/testMenu.html
+Formularios|http://www.w3.org/TR/html4/interact/forms.html

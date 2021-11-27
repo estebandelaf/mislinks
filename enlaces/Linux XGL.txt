@@ -1,0 +1,9 @@
+Compiz con ATI en Dapper|http://www.ubuntuforums.org/showthread.php?t=131253XGL/
+xglati|https://wiki.ubuntu.com/xglati
+Xgl How To|https://wiki.ubuntu.com/XglHowto
+Xgl en Ubuntu|http://draxus.org/weblog/?p=320
+Compiz en Ubuntu|http://www.ubuntu-es.org/node/14043Xgl/
+Compiz en Open Suse|http://en.opensuse.org/Compiz
+Xorg-Aiglx-Compiz|http://www.ubuntuforums.org/showthread.php?t=145068
+XGL en Dapper|https://fredcpp.wordpress.com/2006/06/02/instalar-xgl-en-ubuntu-606-lts/
+Debian Sarge desde 0|http://www.gusat.org/manuales/Debian/debian_sarge_net/portada.html

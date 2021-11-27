@@ -1,0 +1,51 @@
+Migrando a Linux en 5 Pasos y más|http://www.kickbill.com
+Linux NO es Windows|http://claudiomet.blogspot.com/2005/10/especial-linux-no-es-windows.html
+Descomprimir|http://www.badopi.org/node/861Comprimir/
+Google Talk en Gaim|http://www.genbeta.com/archivos/2005/08/24-usa-google-talk-desde-gaim-li.php
+3d Desktop HOWTO|https://wiki.ubuntu.com/3ddesktopHowto/
+Comandos Básicos|http://www.ajpdsoft.com/modules.php?name=News&file=article&sid=155
+Ajustes a Video, Sonido y DMA|http://www.ubuntu-es.org/node/7123
+PAD de Play Station al PC 1|http://bulma.net/body.phtml?nIdNoticia=1268
+PAD de Play Station al PC 2|http://gulsin.org/node/12?PHPSESSID=6b0186c368f7e608bfca5846c962fabe
+Servidor DHCP 1|http://www.gcubo.org/documentacion/recetas/servidordhcp
+Servidor DHCP 2|http://www.guia-ubuntu.org/hoary/doku.php?id=servidor:servidor_dhcp
+Grabando CD/DVD|http://www.guia-ubuntu.org/breezy/grabando_cd_dvd
+GRUB con Entorno Gr&aacute;fico|http://www.ubuntu-es.org/node/8913
+Compartir Archivos: FTo, SSH y más|http://guias-ubuntu.ourproject.org/index.php?title=Gu%C3%ADa_Base/Yo_tambi%C3%A9n_sirvo/Poner_archivos_a_la_disposici%C3%B3n
+Instalando ePSXe|http://www.ubuntu-es.org/node/11348
+Quotas|http://www.ssl.ull.es/node/50
+Quota HOWTO|http://www.tldp.org/HOWTO/Quota-4.html
+Quotas Disk|http://bliki.rimuhosting.com/space/knowledgebase/linux/misc/disk+quotas
+WebCam con módulo spca5xx|http://www.ubuntu-es.org/node/2864
+Skype HOWTO|https://wiki.ubuntu.com/SkypeHowto
+Montar USB|http://www.slackware.cl/?q=node/564
+FluxBox: Temas|http://themes.freshmeat.net/browse/962/
+FluxBox: Fondo de Pantalla|http://www.fluxbox.org/docbook/es/html/c622.html
+Instalar y configurar lm-sensors|http://www.ubuntu-es.org/node/1387
+Imágenes en el GRUB|http://ruslug.rutgers.edu/~mcgrof/grub-images/
+Imágenes para el GRUB|http://www.schultz-net.dk/grub.html
+Driver ATI en Ubuntu Breezy|http://marcgenou.wordpress.com/2005/12/25/ati-drivers-en-ubuntukubuntu-breezy/
+Driver ATI en Ubuntu Dapper Drake|http://www.ubuntu-es.org/node/14936
+Driver ATI en Ubuntu Dapper Drake Wiki|http://wiki.cchtml.com/index.php/Ubuntu_Dapper_Installation_Guide
+ATI Proprietary Linux Installer|https://a248.e.akamai.net/f/674/9206/0/www2.ati.com/drivers/linux/linux_8.25.18-inst.html
+Aceleración gráfica en Ubuntu Dapper con ATI|https://fredcpp.wordpress.com/2006/03/28/aceleracion-grafica-en-ubuntu-con-ati/
+Instalación de MPlayer|http://www.mplayerhq.hu/DOCS/HTML/es/install.html
+GNOME Look|http://www.gnome-look.org/
+Guía Dapper Drake|http://www.guia-ubuntu.org/dapper/index.php/Portada
+Cámaras Soportadas|http://alpha.dyndns.org/ov511/cameras.html
+TV Tuner|http://www.ecualug.org/?q=2005/02/22/forums/tv_tuner_linux
+Streaming|http://linux.bankhacker.com/software/FFmpeg+Streaming+Multimedia+System/
+AutoStart de Programas|http://gentoo-wiki.com/HOWTO_Autostart_Programs
+Crontab|http://www.adminschoice.com/docs/crontab.htm
+Picasa|http://picasa.google.com/linux/index.html
+Xinerama con XFree86|http://www.tldp.org/HOWTO/Xinerama-HOWTO/
+Unreal Tournament|http://www.lugro.org.ar/biblioteca/articulos/unrealtournament.html
+Recuperar GRUB en Ubuntu|http://www.ubuntu-es.org/node/8344
+Crear Live CD|http://linux.pricoinsa.es/Como_hacer_un_Live-CD.html
+Ubuntu OSX Style|http://users.utu.fi/ljtaim/ubuntuosx.php
+WinBind: uso de cuentas de dominio|http://dns.bdat.net/documentos/samba/html/winbind.html
+Papelera en KDE|http://www.ubuntu-es.org/node/18647
+Empezando con Linux|http://claudiomet.blogspot.com/
+Control Remoto Infrarojo por el Puerto Serial|http://www.lirc.org/receivers.html
+Crear ISO por consola|http://nekro.hackerss.com/ver/posts/usando-dd-para-crear-imagenes
+Guía Debian|http://www.debian.org/doc/manuals/reference/ch-system.es.html

@@ -1,0 +1,8 @@
+Kalyway 10.5.2 DVD Intel_Amd (sse2/sse3) EFI V8|http://forum.applesana.com/107/8854/kalyway-10-5-2-dvd-intel_amd-sse2-sse3-efi-v8.html
+Problema con el bootloader de Kaliway|http://forum.insanelymac.com/index.php?showtopic=96657
+Hang at "/usr/sbin/ocspd[39]: starting"|http://forum.insanelymac.com/lofiversion/index.php/t85542.html
+Cómo instalar Mac Os X en una Hackintosh PC|http://www.knxdt.com/2008/02/como-instalar-mac-os-x-en-una-hackintosh-pc.html
+Actualizar Kalyway OS X a 10.5.3|http://www.blogdimension.com/fr/cache?s=44306762-actualizar-kalyway-os-x-a-10-5-3
+Perfect Hackintosh 10.5.1 - EFI and Vanilla Kernel|http://www.youtube.com/watch?v=z6wJJ42p3rc
+Kalyway Leopard se traba al iniciar mac os|http://forum.insanelymac.com/lofiversion/index.php/t105811.html
+Guía gráfica para instalar Leopard OSx86 y Windows XP en una Portátil Dell Inspiron 1420|http://maldana.wordpress.com/2008/01/31/guia-grafica-para-instalar-leopard-osx86-y-windows-xp-en-una-portatil-dell-inspiron-1420/

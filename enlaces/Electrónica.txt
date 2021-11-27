@@ -1,0 +1,4 @@
+Fabricar Receptor Infrarojo para el PC|http://www.lakripta.com/showthread.php?t=4422
+PAD de Play Station al PC|http://www.emulatronia.com/reportajes/directpad/psx/imprimir.htm
+Tabla para Pydance|http://gul.uc3m.es/wiki/doku.php?id=tabla_para_pydance
+Eagle Getting Started|http://fab.cba.mit.edu/tools/electronics/pcb/eagle.html

@@ -1,0 +1,4 @@
+Preparando ficheros para TFTP|http://www.debian.org/releases/stable/i386/ch04s06.html.es
+Linux en Toshiba Libretto L5 via PXE|http://abel.sk.tsukuba.ac.jp/~janos/unix/howto/libretto.html
+Instalar SO via Red|http://www.fefe.de/netboot/how-to-netboot-installer.html
+PXE en Ubuntu|http://myy.helia.fi/~karte/ubuntu_pxe.html
